@@ -69,6 +69,7 @@ All data was generated using OpenAI ChatGPT models with controlled parameters, p
     "prompt_openness": "Ambiguous request"
   }
 }
+```
 ## 🎯 Why MoralBench?
 
 **MoralBench** aims to fill the gap in openly available, richly annotated synthetic datasets for:
