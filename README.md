@@ -94,33 +94,7 @@ By covering **concrete, abstract, and richly annotated** scenarios, MoralBench e
 
 ---
 
-## 📥 Download
 
-- **GitHub**: [link to repo]
-- **Zenodo DOI**: *TBD after Zenodo release*
-- **HuggingFace**: *TBD after HF upload*
-
----
-
-## 🛠️ Usage Example
-
-```python
-from datasets import load_dataset
-
-# Load MoralBench-19K
-ds = load_dataset("krimler/moralbench", split="train")
-
-# Explore one record
-print(ds[0])
-
-## 📜 Citation
-
-If you use MoralBench, please cite:
-
-@dataset{moralbench_2025,
-  title        = {MoralBench: A Multi-Faceted Benchmark for Ethical and Safety Alignment in LLMs},
-  author       = {Madhava Gaikwad}
-}
 
 ## 📌 License
 
