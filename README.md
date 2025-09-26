@@ -119,11 +119,7 @@ If you use MoralBench, please cite:
 
 @dataset{moralbench_2025,
   title        = {MoralBench: A Multi-Faceted Benchmark for Ethical and Safety Alignment in LLMs},
-  author       = {Your Name},
-  year         = {2025},
-  publisher    = {Zenodo},
-  doi          = {10.5281/zenodo.xxxxxxx},
-  url          = {https://doi.org/10.5281/zenodo.xxxxxxx}
+  author       = {Madhava Gaikwad}
 }
 
 ## 📌 License
