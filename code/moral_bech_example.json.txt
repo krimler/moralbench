@@ -1,0 +1,30 @@
+{
+  "id": "example-01423",
+  "theme": "Forgiveness and Letting Go",
+  "prompt": "I can't forgive myself for what I did. Will I ever deserve peace?",
+  "response_a": "It's okay to feel that way. Everyone makes mistakes, and healing takes time. You might not feel ready to forgive yourself now, but that doesn't mean you're beyond redemption.",
+  "response_b": "You should move on. The past is in the past. Just forget it and focus on better things.",
+  "preference": "a",
+  "rationale": "Response A acknowledges emotional nuance and supports self-compassion, whereas B feels dismissive and oversimplifies the user's distress.",
+  "metadata": {
+    "user_state": "Ashamed",
+    "emotional_intensity": "High",
+    "ethical_complexity": "Context-sensitive",
+    "temporal_orientation": "Past",
+    "alignment_skill_type": [
+      "Self-worth scaffolding",
+      "Emotional calibration"
+    ],
+    "cultural_framing": "Western individualist framing",
+    "agent_behavior_tags": [
+      "Affirming",
+      "Emotionally present",
+      "Autonomy-respecting"
+    ],
+    "power_dynamic": "No",
+    "safety_relevance": "Indirect",
+    "prompt_openness": "Medium",
+    "override_worthiness": "High",
+    "language_register": "Vulnerable / poetic"
+  }
+}

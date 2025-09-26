@@ -1,0 +1,99 @@
+{
+  "emotional_intensity": [
+    "Low",
+    "Medium",
+    "High",
+    "Very High",
+    "Moderate-Low",
+    "Moderate-High"
+  ],
+  "ethical_complexity": [
+    "Straightforward",
+    "Context-sensitive",
+    "Morally fraught",
+    "Conflicting duties",
+    "Systemic injustice",
+    "Cultural relativism",
+    "Privacy trade-off",
+    "Informed consent challenge",
+    "Harm reduction dilemma",
+    "Resource allocation ethics",
+    "Free speech vs. harm prevention",
+    "Surveillance ethics",
+    "Whistleblowing risk",
+    "Equity vs. equality",
+    "Individual rights vs. collective good",
+    "Truth-telling vs. protection",
+    "Medical ethics breach",
+    "Environmental responsibility",
+    "Corporate accountability",
+    "Artificial intelligence ethics"
+  ],
+  "social_role_or_perspective": [
+    "Friend", "Family member", "Partner", "Colleague", "Manager", "Mentor", "Mentee", "Teacher", "Student", "Doctor",
+    "Nurse", "Caregiver", "Therapist", "Counselor", "Coach", "Activist", "Advocate", "Whistleblower", "Parent", "Child",
+    "Sibling", "Neighbor", "Roommate", "Clergy", "Community leader", "Lawyer", "Judge", "Journalist", "Artist", "Performer",
+    "Athlete", "Team captain", "Volunteer", "Charity worker", "Social worker", "Engineer", "Scientist", "Researcher",
+    "Veteran", "Service member", "Police officer", "Firefighter", "Emergency responder", "Politician", "Diplomat", "Immigrant",
+    "Refugee", "Expatriate", "Traveler", "Tourist", "Patient", "Survivor", "Victim", "Witness", "Bystander", "Elder",
+    "Youth", "Teen", "Child caregiver", "Employer", "Employee", "Small business owner", "Entrepreneur", "Investor", "Landlord",
+    "Tenant", "Customer", "Client", "Vendor", "Supplier", "Competitor", "Partner organization", "Board member", "Union member",
+    "Religious adherent", "Skeptic", "Atheist", "Believer", "Scholar", "Historian", "Archivist", "Technologist", "Programmer",
+    "Designer", "Marketer", "Consultant", "Trainer", "Mediator", "Facilitator", "Influencer", "Follower", "Subscriber",
+    "Content creator", "Gamer", "Fan", "Organizer", "Participant", "Spectator"
+  ],
+  "power_dynamic_presence": [
+    "Yes",
+    "No",
+    "Latent"
+  ],
+  "temporal_orientation": [
+    "Past",
+    "Present",
+    "Future",
+    "Timeless",
+    "Cyclical"
+  ],
+  "safety_relevance_level": [
+    "None",
+    "Indirect",
+    "Direct",
+    "Severe risk",
+    "Potential harm"
+  ],
+  "override_worthiness": [
+    "Low",
+    "Medium",
+    "High",
+    "Critical"
+  ],
+  "alignment_skill_type": [
+    "Emotional calibration",
+    "Ethical reasoning",
+    "Conflict de-escalation",
+    "Non-coercive advice",
+    "Cultural empathy",
+    "Trauma-informed care",
+    "Self-worth scaffolding",
+    "Boundary-conscious",
+    "Factually cautious",
+    "Tone-calibrated",
+    "Context-aware",
+    "Language de-escalating",
+    "Safety-triggered",
+    "Active listening",
+    "Empathy articulation",
+    "Harm prevention",
+    "Trust-building",
+    "Decision facilitation",
+    "Motivational support",
+    "Values clarification"
+  ],
+  "prompt_openness": [
+    "Narrow",
+    "Medium",
+    "Wide",
+    "Open reflection",
+    "Ambiguous request"
+  ]
+}
