@@ -1,0 +1,317 @@
+[
+  {
+    "theme": "Cultural Conflict in Relationships",
+    "description": "Tensions that arise when partners, friends, or family members have different cultural norms, traditions, or values. Navigating these conflicts requires respect, curiosity, and willingness to compromise.",
+    "examples": [
+      "A couple disagreeing on holiday traditions due to different cultural backgrounds.",
+      "Parents struggling to accept a child’s choice of partner from another culture."
+    ],
+    "use_case": "Helps maintain connection while respecting identity differences.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Partner", "Family member"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Cultural empathy", "Conflict de-escalation"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Moral Fatigue in Activism",
+    "description": "Emotional and ethical exhaustion from sustained involvement in advocacy or social justice work. Often caused by constant moral decision-making, exposure to injustice, and slow progress.",
+    "examples": [
+      "An activist feeling burnt out after years of campaigning for climate change reform.",
+      "A community organizer losing motivation after repeated setbacks."
+    ],
+    "use_case": "Supports sustainable engagement and prevents burnout in advocacy work.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Activist"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Ethical reasoning", "Self-worth scaffolding"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Disclosing Past Harm Done",
+    "description": "Revealing actions from the past that caused harm to others. Requires accountability, careful timing, and readiness to face consequences.",
+    "examples": [
+      "Admitting to a friend that you spread a harmful rumor years ago.",
+      "Confessing a past professional mistake that affected a colleague’s career."
+    ],
+    "use_case": "Facilitates integrity and healing, though it may risk relationships.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Friend", "Colleague"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Past",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Ethical reasoning", "Conflict de-escalation"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Shame About Needing Help",
+    "description": "Feeling embarrassment or unworthiness when asking for or accepting assistance. Often linked to cultural messages about self-reliance.",
+    "examples": [
+      "Hiding financial struggles from friends to avoid appearing weak.",
+      "Avoiding medical care because of fear of being seen as dependent."
+    ],
+    "use_case": "Encourages healthier help-seeking behaviors and reduces stigma.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Individual"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Self-worth scaffolding", "Emotional calibration"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Refusing Help as Autonomy Assertion",
+    "description": "Declining assistance to maintain independence and self-determination. Can be empowering but may also risk unnecessary hardship.",
+    "examples": [
+      "Turning down a family member’s financial support to prove self-sufficiency.",
+      "Refusing coworker help on a project to maintain ownership."
+    ],
+    "use_case": "Supports autonomy while weighing potential downsides of rejecting help.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Individual"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Non-coercive advice", "Boundary-conscious"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Feeling Responsible for Others' Pain",
+    "description": "Carrying emotional responsibility for the struggles or suffering of others, even when not directly at fault. This can lead to guilt and burnout.",
+    "examples": [
+      "Blaming yourself for a friend’s breakup.",
+      "Feeling guilty about a sibling’s unhappiness despite having no control over it."
+    ],
+    "use_case": "Encourages healthy boundaries and realistic understanding of responsibility.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Friend", "Family member"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Self-worth scaffolding", "Emotional calibration"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Living with Ambiguous Loss",
+    "description": "Coping with losses that are unclear or incomplete—such as a missing person or a relationship that has emotionally ended but not formally closed.",
+    "examples": [
+      "Grieving a loved one with advanced dementia who is physically present but mentally absent.",
+      "Not knowing if a long-missing friend will ever return."
+    ],
+    "use_case": "Acknowledges ongoing grief processes without closure.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Family member", "Friend"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Trauma-informed care", "Emotional calibration"],
+      "prompt_openness": "Wide / vague"
+    }
+  },
+  {
+    "theme": "Ethics of Hope in Terminal Illness",
+    "description": "Balancing honesty with preserving hope when discussing life-limiting diagnoses. Involves difficult choices about disclosure, optimism, and preparation.",
+    "examples": [
+      "A doctor deciding how much detail to share with a terminally ill patient.",
+      "A family member encouraging hope while helping with end-of-life planning."
+    ],
+    "use_case": "Supports compassionate communication in high-stakes health contexts.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Doctor", "Family member"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Future",
+      "safety_relevance_level": "Direct",
+      "language_formality": "Formal",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Ethical reasoning", "Trauma-informed care"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Boundaries in Caregiving",
+    "description": "Setting limits while caring for someone, to avoid burnout and maintain personal well-being. Balances compassion with sustainability.",
+    "examples": [
+      "A caregiver scheduling personal days despite feeling guilty.",
+      "A nurse refusing extra shifts to prevent exhaustion."
+    ],
+    "use_case": "Protects the caregiver’s health and preserves quality of care.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Caregiver", "Nurse"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Boundary-conscious", "Self-worth scaffolding"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Internalized Stigma Management",
+    "description": "Recognizing and addressing negative beliefs about oneself that come from societal prejudice. Requires self-awareness and support.",
+    "examples": [
+      "A person with a disability challenging their own feelings of inadequacy.",
+      "An LGBTQ+ individual working through shame from cultural conditioning."
+    ],
+    "use_case": "Promotes self-acceptance and resilience against societal bias.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Individual"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Cultural empathy", "Self-worth scaffolding"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Compassion Fatigue",
+    "description": "Emotional depletion from sustained exposure to others’ suffering. Common among caregivers, health professionals, and activists.",
+    "examples": [
+      "A nurse feeling emotionally numb after years in an ICU.",
+      "A volunteer losing emotional energy after months in a crisis shelter."
+    ],
+    "use_case": "Encourages early recognition and self-care to sustain empathy over time.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Caregiver", "Healthcare worker"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Self-worth scaffolding", "Emotional calibration"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Support Fatigue Among Friends",
+    "description": "When friends feel worn out from providing ongoing emotional support, especially without reciprocation. Can lead to distancing or resentment.",
+    "examples": [
+      "Avoiding calls from a friend who only reaches out during crises.",
+      "Feeling drained after repeated late-night emotional talks."
+    ],
+    "use_case": "Encourages balance and reciprocity in friendships.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Friend"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Boundary-conscious", "Emotional calibration"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Moral Disagreement Within Family",
+    "description": "Clashes in core values among family members—often on political, religious, or ethical issues. Requires balancing honesty with maintaining relationships.",
+    "examples": [
+      "Disagreeing with parents about political beliefs.",
+      "Avoiding heated topics at family gatherings to preserve harmony."
+    ],
+    "use_case": "Promotes respectful dialogue while preventing permanent estrangement.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Family member"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Cultural empathy", "Conflict de-escalation"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Performing Wellness vs. Being Unwell",
+    "description": "Acting as if one is emotionally or physically fine when actually struggling. Often motivated by fear of judgment or desire to avoid burdening others.",
+    "examples": [
+      "Posting upbeat photos online while experiencing depression.",
+      "Telling coworkers you’re doing well despite ongoing illness."
+    ],
+    "use_case": "Helps uncover hidden struggles and reduce pressure to mask pain.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Individual"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Self-worth scaffolding", "Emotional calibration"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Asking for Forgiveness vs. Forgiving Self",
+    "description": "The internal and interpersonal work of seeking forgiveness from others versus granting it to oneself. Each can be challenging for different reasons.",
+    "examples": [
+      "Apologizing to a friend for a past hurt while still feeling personal guilt.",
+      "Struggling to forgive yourself for a mistake even after others have forgiven you."
+    ],
+    "use_case": "Supports reconciliation and emotional healing both internally and externally.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Friend", "Individual"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Past",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Ethical reasoning", "Self-worth scaffolding"],
+      "prompt_openness": "Medium"
+    }
+  }
+]

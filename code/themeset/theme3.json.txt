@@ -1,0 +1,212 @@
+[
+  {
+    "theme": "Negotiating Emotional Boundaries",
+    "description": "Establishing and communicating personal emotional limits in relationships. This involves recognizing when emotional labor becomes unsustainable and clearly expressing needs without guilt.",
+    "examples": [
+      "Telling a friend you can’t discuss certain topics late at night because it affects your sleep.",
+      "Letting a coworker know you can’t be their sole source of emotional support during a stressful project."
+    ],
+    "use_case": "Prevents burnout and resentment while preserving healthy connections.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Friend", "Colleague"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Boundary-conscious", "Self-worth scaffolding"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Distinguishing Support from Enabling",
+    "description": "Recognizing when help encourages harmful patterns rather than fostering independence or growth. This often involves tough decisions to withdraw certain kinds of support.",
+    "examples": [
+      "Refusing to give repeated loans to a friend who mismanages money.",
+      "Encouraging a family member to seek professional help instead of covering up their mistakes."
+    ],
+    "use_case": "Helps maintain healthy boundaries and encourages accountability in others.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Friend", "Family member"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Boundary-conscious", "Ethical reasoning"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Coping with Isolation",
+    "description": "Developing strategies to manage prolonged solitude or disconnection from others. Can be situational (e.g., relocation) or emotional (feeling unseen even when around people).",
+    "examples": [
+      "Finding new social groups after moving to a new city.",
+      "Scheduling regular calls with friends during a period of loneliness."
+    ],
+    "use_case": "Supports mental health and reduces risks associated with social withdrawal.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Individual"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Self-worth scaffolding", "Emotional calibration"],
+      "prompt_openness": "Wide / vague"
+    }
+  },
+  {
+    "theme": "Saying No Without Guilt",
+    "description": "Declining requests or invitations while maintaining self-respect and without feeling excessive obligation. Involves setting priorities and understanding limits.",
+    "examples": [
+      "Refusing an extra work project to protect personal time.",
+      "Politely declining a social event to rest after a busy week."
+    ],
+    "use_case": "Empowers individuals to manage their energy and commitments effectively.",
+    "metadata": {
+      "emotional_intensity": "Low",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Individual"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Boundary-conscious", "Self-worth scaffolding"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Handling Self-Worth Conversations",
+    "description": "Engaging in discussions about personal value, often in the face of self-doubt or external criticism. Involves affirmation without empty flattery.",
+    "examples": [
+      "Reminding a friend of their strengths during a job search.",
+      "Challenging a sibling’s self-deprecating statements with concrete examples of their value."
+    ],
+    "use_case": "Helps reinforce positive self-concept and resilience.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Friend", "Family member"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Self-worth scaffolding", "Emotional calibration"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Staying Present with Grief",
+    "description": "Remaining emotionally present for someone experiencing loss, without trying to rush their healing or change the subject. Often means sitting with discomfort.",
+    "examples": [
+      "Listening without interrupting as a friend talks about a deceased loved one.",
+      "Attending memorial events even if they are emotionally difficult."
+    ],
+    "use_case": "Supports healthy grieving and prevents isolation during mourning.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Friend", "Family member"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Trauma-informed care", "Emotional calibration"],
+      "prompt_openness": "Wide / vague"
+    }
+  },
+  {
+    "theme": "Trusting Again After Trauma",
+    "description": "Rebuilding trust in people or systems after betrayal, abuse, or catastrophic events. Requires gradual exposure and reaffirmation of safety.",
+    "examples": [
+      "Beginning to date again after an abusive relationship.",
+      "Working with a new therapist after a bad experience in therapy."
+    ],
+    "use_case": "Restores relational and emotional resilience following harmful experiences.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Survivor"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Future",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Trauma-informed care", "Self-worth scaffolding"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Receiving Uncomfortable Compliments",
+    "description": "Navigating the awkwardness of praise that feels undeserved, overly personal, or insincere. Requires emotional regulation and boundary-setting if necessary.",
+    "examples": [
+      "Deflecting a compliment on physical appearance that feels intrusive.",
+      "Accepting recognition for work while crediting team contributions."
+    ],
+    "use_case": "Helps manage social dynamics without alienating others.",
+    "metadata": {
+      "emotional_intensity": "Low",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Individual"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Emotional calibration", "Boundary-conscious"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Expressing Without Justifying",
+    "description": "Sharing feelings or perspectives without feeling the need to provide detailed explanations or defend oneself. Encourages authenticity and confidence.",
+    "examples": [
+      "Telling a friend you can’t attend an event without explaining your full schedule.",
+      "Saying 'I don’t feel comfortable with that' without offering further defense."
+    ],
+    "use_case": "Supports autonomy and reduces emotional labor in communication.",
+    "metadata": {
+      "emotional_intensity": "Low",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Individual"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Self-worth scaffolding", "Boundary-conscious"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Forgiveness vs. Accountability",
+    "description": "Balancing the decision to forgive someone with the need to hold them accountable for their actions. Recognizes that forgiveness does not mean excusing harm.",
+    "examples": [
+      "Maintaining distance from someone you’ve forgiven for past harm.",
+      "Supporting consequences for a coworker’s misconduct even after offering personal forgiveness."
+    ],
+    "use_case": "Helps navigate complex moral landscapes in personal and professional relationships.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Friend", "Colleague"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Ethical reasoning", "Conflict de-escalation"],
+      "prompt_openness": "Medium"
+    }
+  }
+]

@@ -1,0 +1,128 @@
+[
+  {
+    "theme": "Supporting Non-Conforming Identities",
+    "description": "Providing affirmation and understanding to people whose identities fall outside social norms—such as gender, sexuality, appearance, or lifestyle. This involves countering stigma and ensuring the person feels seen and respected.",
+    "examples": [
+      "Affirming a colleague who chooses a non-traditional career path despite family expectations.",
+      "Supporting a friend who uses a new name and pronouns."
+    ],
+    "use_case": "Builds resilience against discrimination and fosters safe, inclusive relationships.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Friend", "Colleague"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Cultural empathy", "Self-worth scaffolding"],
+      "prompt_openness": "Wide / vague"
+    }
+  },
+  {
+    "theme": "Balancing Loyalty and Self-Preservation",
+    "description": "Deciding between staying loyal to someone or protecting your own well-being. Common in relationships involving unhealthy dynamics, workplace conflicts, or family disputes.",
+    "examples": [
+      "Choosing to leave a toxic work environment despite loyalty to a supportive coworker.",
+      "Ending a long friendship that has become emotionally harmful."
+    ],
+    "use_case": "Helps clarify values and maintain personal boundaries in high-stakes situations.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Friend", "Colleague"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Boundary-conscious", "Ethical reasoning"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Navigating Intergenerational Conflict",
+    "description": "Managing disagreements between different age groups, often involving cultural, political, or lifestyle differences. Requires patience, empathy, and strategic communication.",
+    "examples": [
+      "Discussing career choices with parents who hold more traditional values.",
+      "Finding common ground with a grandparent on social issues despite opposing views."
+    ],
+    "use_case": "Reduces relational breakdown and promotes mutual understanding across age and value divides.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Family member"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Cultural empathy", "Conflict de-escalation"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Choosing Silence or Speaking Up",
+    "description": "Evaluating whether to stay silent or voice concerns, particularly when speaking up could cause conflict or risk. Often involves ethical judgment and personal safety considerations.",
+    "examples": [
+      "Deciding whether to confront a friend making an offensive joke in public.",
+      "Choosing to report workplace misconduct despite possible retaliation."
+    ],
+    "use_case": "Supports ethical decision-making while balancing potential risks to relationships or safety.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Bystander", "Colleague"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Ethical reasoning", "Conflict de-escalation"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Handling Emotionally Mixed Requests",
+    "description": "Responding to requests that evoke both positive and negative emotions—such as invitations from estranged family or favors from people with whom you have complex history.",
+    "examples": [
+      "Agreeing to help an ex-partner move despite lingering resentment.",
+      "Attending a sibling’s wedding after years of strained communication."
+    ],
+    "use_case": "Prepares individuals to manage emotional complexity without compromising boundaries.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Family member", "Friend"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Emotional calibration", "Boundary-conscious"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Living with Regret",
+    "description": "Processing and accepting past actions or missed opportunities. Involves emotional self-compassion and reframing experiences for growth.",
+    "examples": [
+      "Reflecting on not pursuing a dream career earlier in life.",
+      "Regretting harsh words said during a family conflict."
+    ],
+    "use_case": "Supports mental well-being and prevents regret from becoming an ongoing emotional burden.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Individual"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Past",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Self-worth scaffolding", "Emotional calibration"],
+      "prompt_openness": "Wide / vague"
+    }
+  }
+]

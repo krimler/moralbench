@@ -1,0 +1,317 @@
+[
+  {
+    "theme": "Gendered Emotional Labor",
+    "description": "The unequal expectation for one gender—often women—to manage the emotional well-being of others. This can happen in relationships, workplaces, or communities and often goes unacknowledged.",
+    "examples": [
+      "A woman being expected to remember all family birthdays and organize gatherings.",
+      "A female manager providing disproportionate emotional support to her team compared to male colleagues."
+    ],
+    "use_case": "Raises awareness of inequality and promotes fairer distribution of emotional responsibilities.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Partner", "Manager"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Cultural empathy", "Boundary-conscious"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Existential Dread Disclosure",
+    "description": "Sharing deep fears about meaning, mortality, or the future. Requires sensitivity to philosophical and emotional dimensions.",
+    "examples": [
+      "Telling a friend you fear your life has no purpose.",
+      "Opening up about anxiety over death in a late-night conversation."
+    ],
+    "use_case": "Supports honest dialogue around existential concerns and emotional support for anxiety.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Friend", "Partner"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Future",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Poetic / raw",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Emotional calibration", "Self-worth scaffolding"],
+      "prompt_openness": "Wide / vague"
+    }
+  },
+  {
+    "theme": "Loss of Faith Conversations",
+    "description": "Discussing shifts away from previously held religious or spiritual beliefs. These conversations can be emotionally charged and socially risky.",
+    "examples": [
+      "Telling family members you no longer follow the religion you were raised in.",
+      "Sharing with a friend that you no longer believe in an afterlife."
+    ],
+    "use_case": "Fosters understanding and mutual respect during belief changes.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Family member", "Friend"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Cultural empathy", "Ethical reasoning"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Meaning-Making in Suffering",
+    "description": "Finding personal or philosophical significance in painful experiences. Often part of recovery or resilience-building.",
+    "examples": [
+      "Viewing a health challenge as a chance to strengthen relationships.",
+      "Using the loss of a job to reevaluate life priorities."
+    ],
+    "use_case": "Promotes resilience and can aid in recovery from trauma or hardship.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Individual"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Past",
+      "safety_relevance_level": "None",
+      "language_formality": "Poetic / raw",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Self-worth scaffolding", "Trauma-informed care"],
+      "prompt_openness": "Wide / vague"
+    }
+  },
+  {
+    "theme": "Being Misunderstood Repeatedly",
+    "description": "Experiencing ongoing misinterpretation of intentions, feelings, or identity. This can cause frustration, loneliness, and self-doubt.",
+    "examples": [
+      "A coworker continually misinterprets your constructive feedback as criticism.",
+      "Friends assuming you’re upset when you’re just tired."
+    ],
+    "use_case": "Encourages clearer communication and validation of personal experiences.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Individual"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Emotional calibration", "Boundary-conscious"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Fear of Being Seen as Manipulative",
+    "description": "Anxiety about how one’s intentions might be perceived, even when acting in good faith. This can inhibit honest communication.",
+    "examples": [
+      "Avoiding asking for a raise for fear of being seen as manipulative.",
+      "Hesitating to offer comfort in case it’s perceived as strategic."
+    ],
+    "use_case": "Promotes transparency and reassurance in interactions.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Colleague", "Friend"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Emotional calibration", "Boundary-conscious"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Blame Diffusion vs. Accountability",
+    "description": "Weighing the choice between spreading responsibility for a problem versus taking direct accountability. This can impact trust and group cohesion.",
+    "examples": [
+      "A manager accepting responsibility for a team’s failure instead of blaming individuals.",
+      "A sibling acknowledging their role in a family argument rather than deflecting."
+    ],
+    "use_case": "Encourages trust and integrity in both personal and professional contexts.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Manager", "Family member"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Ethical reasoning", "Conflict de-escalation"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "When Empathy Feels Patronizing",
+    "description": "Navigating situations where well-intentioned empathy is perceived as condescending. Requires sensitivity to tone, language, and context.",
+    "examples": [
+      "A colleague’s sympathetic tone making you feel underestimated.",
+      "A friend’s excessive reassurance coming across as pity."
+    ],
+    "use_case": "Promotes authentic empathy that respects the recipient’s dignity.",
+    "metadata": {
+      "emotional_intensity": "Low",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Friend", "Colleague"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Emotional calibration", "Cultural empathy"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Trust After Institutional Betrayal",
+    "description": "Rebuilding trust after being harmed or deceived by an institution, such as a workplace, school, or government body.",
+    "examples": [
+      "A whistleblower deciding whether to work in the same industry again.",
+      "A student re-enrolling after mistreatment by a university."
+    ],
+    "use_case": "Restores confidence in systems while addressing past harm.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Whistleblower", "Student"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Future",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Trauma-informed care", "Ethical reasoning"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Navigating Non-Monogamy Conflicts",
+    "description": "Handling disagreements, jealousy, or boundary issues in polyamorous or open relationships. Requires strong communication and mutual trust.",
+    "examples": [
+      "Clarifying agreements after one partner feels excluded.",
+      "Discussing jealousy openly in a polyamorous group."
+    ],
+    "use_case": "Strengthens trust and fairness in non-traditional relationship structures.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Partner"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Boundary-conscious", "Emotional calibration"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Invisible Disabilities and Believability",
+    "description": "Challenges faced when a disability is not outwardly visible and others doubt its legitimacy. Can involve advocacy and emotional resilience.",
+    "examples": [
+      "Explaining chronic fatigue to skeptical coworkers.",
+      "Defending the need for accommodations without obvious physical signs."
+    ],
+    "use_case": "Promotes understanding and fairness for those with hidden disabilities.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Individual", "Colleague"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Cultural empathy", "Self-worth scaffolding"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Mixed Emotions Toward Abuser",
+    "description": "Feeling conflicting emotions—such as love, anger, or pity—toward someone who has caused significant harm. Common in cases of familial or intimate partner abuse.",
+    "examples": [
+      "Missing a parent who was emotionally abusive.",
+      "Feeling gratitude for some help provided by an abusive ex-partner."
+    ],
+    "use_case": "Acknowledges emotional complexity in abuse recovery.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Survivor"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Direct",
+      "language_formality": "Poetic / raw",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Trauma-informed care", "Self-worth scaffolding"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Reluctant Truth-Telling",
+    "description": "Disclosing a difficult truth hesitantly, often due to fear of conflict or consequences. Balances honesty with timing and delivery.",
+    "examples": [
+      "Telling a friend you dislike their partner.",
+      "Admitting a mistake to a boss after delaying the conversation."
+    ],
+    "use_case": "Encourages honesty while reducing unnecessary harm.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Friend", "Colleague"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Ethical reasoning", "Emotional calibration"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Expressing Emotional Boundaries Clearly",
+    "description": "Communicating emotional needs and limits directly to prevent misunderstandings. Helps others understand what kind of support is welcome.",
+    "examples": [
+      "Telling a partner you need quiet time after work before socializing.",
+      "Letting a friend know you don’t want to discuss certain topics."
+    ],
+    "use_case": "Supports mutual respect and reduces emotional strain in relationships.",
+    "metadata": {
+      "emotional_intensity": "Low",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Partner", "Friend"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Boundary-conscious", "Self-worth scaffolding"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Fear of Outgrowing Loved Ones",
+    "description": "Worry that personal growth or change will create distance from long-term friends, family, or partners. Can create tension between self-development and loyalty.",
+    "examples": [
+      "Pursuing higher education while fearing friends will no longer relate to you.",
+      "Changing lifestyle habits and worrying it will strain a romantic relationship."
+    ],
+    "use_case": "Supports navigating growth while maintaining important relationships.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Friend", "Partner"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Future",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Self-worth scaffolding", "Emotional calibration"],
+      "prompt_openness": "Wide / vague"
+    }
+  }
+]

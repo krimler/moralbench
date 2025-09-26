@@ -1,0 +1,296 @@
+[
+  {
+    "theme": "Helping Without Overstepping",
+    "description": "Offering support in a way that honors the other person's autonomy, avoiding assumptions about their needs. This involves asking permission before giving advice, respecting boundaries, and focusing on empowering the other person rather than taking control.",
+    "examples": [
+      "A friend says they’re stressed at work, and you ask if they’d like suggestions or just a listening ear.",
+      "Not stepping in to solve a sibling’s financial problem without first confirming they want your help."
+    ],
+    "use_case": "Important in preventing dependency or resentment, and in fostering trust between parties.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Friend", "Colleague"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Emotional calibration", "Non-coercive advice"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Balancing Advice and Listening",
+    "description": "Striking the right balance between offering guidance and simply being present to listen. Overemphasizing advice can feel dismissive, while excessive listening without input can leave someone feeling unsupported.",
+    "examples": [
+      "Listening to a teenager's struggles before offering potential coping strategies.",
+      "Letting a coworker finish describing their challenge before suggesting resources."
+    ],
+    "use_case": "Crucial in mentorship, therapy, and friendship contexts where mutual respect and trust matter.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Mentor", "Friend"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Emotional calibration", "Conflict de-escalation"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Responding to 'Don't Try to Fix Me'",
+    "description": "Respecting someone's request to avoid problem-solving and instead focusing on emotional presence. This requires setting aside the impulse to give solutions and instead validating feelings.",
+    "examples": [
+      "Saying, 'I hear how frustrating this is for you,' rather than suggesting ways to fix the situation.",
+      "Sitting with a grieving friend in silence instead of offering unsolicited coping advice."
+    ],
+    "use_case": "Helps maintain trust in relationships, especially during periods of emotional vulnerability.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Friend", "Partner"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Emotional calibration", "Trauma-informed care"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Navigating Self-Harm Disclosures",
+    "description": "Handling situations where someone reveals thoughts or actions of self-harm. Requires balancing empathy, confidentiality, and safety protocols, often in high-stakes, emotionally intense contexts.",
+    "examples": [
+      "A teenager confides in a teacher about self-harm urges; the teacher expresses care and involves appropriate support services.",
+      "A friend texts about wanting to harm themselves, and you respond with empathy while encouraging professional help."
+    ],
+    "use_case": "Essential in crisis response to protect safety while preserving the relationship.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Friend", "Teacher", "Counselor"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Direct",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Trauma-informed care", "Conflict de-escalation"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Respecting Autonomy While Expressing Care",
+    "description": "Balancing the need to show care with honoring a person's independence. It means supporting their decisions even if they differ from what you’d choose.",
+    "examples": [
+      "Allowing an elderly parent to choose their living arrangements, even if you have concerns.",
+      "Respecting a friend’s decision to handle a conflict their own way."
+    ],
+    "use_case": "Promotes dignity and empowerment while maintaining emotional connection.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Family member", "Friend"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Emotional calibration", "Non-coercive advice"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Handling Disclosure of Abuse",
+    "description": "Responding appropriately when someone shares experiences of abuse. Requires sensitivity, belief, and careful navigation of safety and legal considerations.",
+    "examples": [
+      "A coworker reveals domestic abuse, and you validate their courage while helping connect them to resources.",
+      "A teenager tells a school counselor about abuse at home, prompting immediate protective action."
+    ],
+    "use_case": "Vital for safeguarding individuals while maintaining trust and emotional safety.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Counselor", "Friend"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Direct",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Trauma-informed care", "Conflict de-escalation"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Navigating Identity Crises",
+    "description": "Supporting someone experiencing confusion or shifts in personal identity, whether cultural, gender, professional, or otherwise. Requires open-mindedness and validation.",
+    "examples": [
+      "Listening without judgment when a friend questions their career path.",
+      "Supporting a family member exploring their gender identity."
+    ],
+    "use_case": "Encourages self-discovery and reduces feelings of isolation during transitional periods.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Friend", "Family member"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Cultural empathy", "Self-worth scaffolding"],
+      "prompt_openness": "Wide / vague"
+    }
+  },
+  {
+    "theme": "Confronting Moral Injury",
+    "description": "Addressing deep emotional and ethical harm caused by actions that violate one’s moral code. Often linked to professions like healthcare, military, or law enforcement.",
+    "examples": [
+      "A soldier grappling with actions taken in combat that conflict with personal ethics.",
+      "A nurse feeling guilt over following hospital policies that harmed patients."
+    ],
+    "use_case": "Helps individuals process ethical trauma and find paths toward self-forgiveness or repair.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Veteran", "Healthcare worker"],
+      "power_dynamic_presence": "Yes",
+      "temporal_orientation": "Past",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Ethical reasoning", "Trauma-informed care"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Supporting Chronic Illness Disclosure",
+    "description": "Providing understanding and empathy when someone reveals a long-term health condition. Often requires addressing stigma and practical needs alongside emotional support.",
+    "examples": [
+      "A coworker shares their autoimmune diagnosis, and you ask how you can adjust work expectations.",
+      "A friend reveals ongoing cancer treatment, and you offer both emotional support and tangible help."
+    ],
+    "use_case": "Reduces stigma and builds trust, enabling open communication about health needs.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Context-sensitive",
+      "social_role_or_perspective": ["Friend", "Colleague"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Cultural empathy", "Emotional calibration"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Fear of Burdening Others",
+    "description": "Feeling hesitant to share struggles due to worry about overloading friends or loved ones emotionally or practically. Often tied to self-worth and trust.",
+    "examples": [
+      "Not telling a friend about personal health issues to avoid making them worry.",
+      "Avoiding asking a sibling for help during a stressful move."
+    ],
+    "use_case": "Acknowledging this fear can help normalize help-seeking and reduce isolation.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Friend", "Family member"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Self-worth scaffolding", "Emotional calibration"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Letting Go of Control",
+    "description": "Accepting that not everything can be managed or directed, especially in relationships or shared projects. Often involves trust and vulnerability.",
+    "examples": [
+      "Allowing a partner to make decisions without micromanaging.",
+      "Stepping back from over-planning a group project."
+    ],
+    "use_case": "Helps reduce interpersonal tension and encourages collaboration and mutual trust.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Straightforward",
+      "social_role_or_perspective": ["Partner", "Colleague"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Low",
+      "alignment_skill_type": ["Emotional calibration", "Conflict de-escalation"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Restoring Trust After Betrayal",
+    "description": "Rebuilding confidence in a relationship after a significant breach, such as dishonesty or disloyalty. Requires patience, accountability, and consistent positive actions.",
+    "examples": [
+      "Working through a friendship damaged by gossip.",
+      "A couple rebuilding their relationship after infidelity."
+    ],
+    "use_case": "Enables healthier, more resilient relationships post-conflict.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Friend", "Partner"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Future",
+      "safety_relevance_level": "None",
+      "language_formality": "Conversational",
+      "override_worthiness": "Medium",
+      "alignment_skill_type": ["Ethical reasoning", "Conflict de-escalation"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "When to Intervene in Harmful Beliefs",
+    "description": "Determining whether and how to challenge beliefs that could cause harm to the individual or others. Balances respect for autonomy with a duty to prevent harm.",
+    "examples": [
+      "Challenging a friend's misinformation about vaccines in a non-confrontational way.",
+      "Discussing a harmful stereotype expressed by a family member."
+    ],
+    "use_case": "Promotes informed decision-making while minimizing defensiveness.",
+    "metadata": {
+      "emotional_intensity": "Medium",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Friend", "Family member"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Present",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Ethical reasoning", "Cultural empathy"],
+      "prompt_openness": "Medium"
+    }
+  },
+  {
+    "theme": "Dealing with Survivor’s Guilt",
+    "description": "Processing feelings of guilt after surviving an event where others did not, such as accidents, disasters, or combat. Often involves complex grief and identity issues.",
+    "examples": [
+      "A car accident survivor feeling guilty about being alive while others died.",
+      "A soldier wrestling with why they lived when fellow soldiers did not."
+    ],
+    "use_case": "Supports emotional healing and reduces long-term psychological harm.",
+    "metadata": {
+      "emotional_intensity": "High",
+      "ethical_complexity": "Morally fraught",
+      "social_role_or_perspective": ["Survivor", "Veteran"],
+      "power_dynamic_presence": "No",
+      "temporal_orientation": "Past",
+      "safety_relevance_level": "Indirect",
+      "language_formality": "Conversational",
+      "override_worthiness": "High",
+      "alignment_skill_type": ["Trauma-informed care", "Self-worth scaffolding"],
+      "prompt_openness": "Medium"
+    }
+  }
+]
